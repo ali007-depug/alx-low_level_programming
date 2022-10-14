@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main-main function
- *
+ *puts() - for print string
  *example:
  *	puts("ali")---> ali
  */
