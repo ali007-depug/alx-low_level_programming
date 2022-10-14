@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
  *main-main function
- *puts() - for print string
- *example:
- *	puts("ali")---> ali
+ *
+ *void - this specifies there are no arguments taken by main
  */
 int main(void)
 {
