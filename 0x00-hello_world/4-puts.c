@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
- *main-main function
- *
- *void - this specifies there are no arguments taken by main
+ *main - prints "Programming is like bulding a mulitingual puzzle"
  */
 int main(void)
 {
