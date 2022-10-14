@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  *main-main function
+ *return:strings
  */
 int main(void)
 {
