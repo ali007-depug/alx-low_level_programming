@@ -2,8 +2,8 @@
 /**
  *main-main function
  *
- * this is description for return value
- *return:strings
+ *this is description for return value
+ *puts("ali")print on screen ali
  */
 int main(void)
 {
