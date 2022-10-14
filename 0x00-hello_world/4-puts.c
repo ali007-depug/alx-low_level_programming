@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- *main - prints "Programming is like bulding a mulitingual puzzle"
+ *main - main function
+ *
+ * Return zero
  */
 int main(void)
 {
