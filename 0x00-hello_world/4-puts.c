@@ -2,6 +2,7 @@
 /**
  *main-main function
  *
+ * this is description for return value
  *return:strings
  */
 int main(void)
